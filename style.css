@@ -171,3 +171,15 @@ button:hover {
 .btn2 {
     border: 1px solid #e5e7eb;
 }
+
+/* footer css */
+
+.footer {
+    background-color: #1f2937;
+    font-size: 18px;
+    color: #e5e7eb;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 40px 100px;
+}
