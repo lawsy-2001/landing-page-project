@@ -72,6 +72,11 @@ button {
     font-size: 18px;
 }
 
+button:hover {
+    cursor: pointer;
+    color: #1f2937;
+}
+
 /* section 2 css */
 
 .img-small {
@@ -161,4 +166,8 @@ button {
 
 .signup-info {
     color: #f9faf8;
+}
+
+.btn2 {
+    border: 1px solid #e5e7eb;
 }
